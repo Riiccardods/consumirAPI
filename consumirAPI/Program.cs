@@ -33,6 +33,7 @@ namespace MyApiConsumer
                 Console.WriteLine("6. Sair");
                 Console.Write("\nOpção: ");
 
+
                 switch (Console.ReadLine())
                 {
                     case "1":
