@@ -13,6 +13,7 @@ namespace MyApiConsumer
         public int Id { get; set; }
         public string NomeCompleto { get; set; }
 
+
     }
 
     class Program
