@@ -23,6 +23,7 @@ namespace MyApiConsumer
             bool running = true;
             while (running)
             {
+
                 Console.Clear();
                 Console.WriteLine("Escolha uma opção:");
                 Console.WriteLine("1. Listar Nomes");
