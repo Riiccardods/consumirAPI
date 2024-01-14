@@ -9,8 +9,10 @@ namespace MyApiConsumer
 {
     class Nome
     {
+
         public int Id { get; set; }
         public string NomeCompleto { get; set; }
+
     }
 
     class Program
